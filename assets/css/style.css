@@ -16,3 +16,7 @@ header {
     background-color: #339e66;
     color: #d9dcd6;
 }
+
+header h1 {
+    display: block;
+}
