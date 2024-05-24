@@ -18,5 +18,5 @@ header {
 }
 
 header h1 {
-    display: block;
+    display: inline-block;
 }
