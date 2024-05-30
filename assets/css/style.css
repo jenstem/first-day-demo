@@ -25,4 +25,5 @@ header h1 {
 /* Navigation bar */
 header nav {
     padding-top: 15px;
+    margin-right: 20px;
 }
