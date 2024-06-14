@@ -36,5 +36,5 @@ header nav ul {
 }
 
 header nav ul li {
-    display: block;
+    display: inline-block;
 }
