@@ -37,4 +37,5 @@ header nav ul {
 
 header nav ul li {
     display: inline-block;
+    margin-left: 20px;
 }
