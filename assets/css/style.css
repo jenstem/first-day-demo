@@ -44,3 +44,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Paragraph font */
+p {
+    font-size: 12px;
+}
