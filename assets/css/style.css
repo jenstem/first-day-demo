@@ -49,3 +49,9 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Banner image */
+.banner1 {
+    height: 400px;
+    width: 100%;
+}
