@@ -60,4 +60,5 @@ p {
 /* Formatting in content section */
 .content {
     width: 75%;
+    display: block;
 }
