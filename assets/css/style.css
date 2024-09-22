@@ -61,4 +61,5 @@ p {
 .content {
     width: 75%;
     display: inline-block;
+    margin-left: 10px;
 }
